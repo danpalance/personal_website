@@ -1,5 +1,7 @@
 project:
+  type: website
   title: "personal_website"
+  output-dir: docs
 
 
 
